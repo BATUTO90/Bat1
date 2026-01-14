@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Gradio
+*.log
+.gradio_cache/
+gradio_cached_examples/
